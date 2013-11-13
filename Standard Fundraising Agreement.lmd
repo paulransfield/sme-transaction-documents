@@ -1,0 +1,122 @@
+---
+
+# Mixins
+client: ""
+client_address: ""
+client_full: ""
+client_reg: ""
+client_representative: ""
+client_type: ""
+date: ""
+fundraiser: ""
+fundraiser_address: ""
+fundraiser_full: ""
+fundraiser_reg: ""
+fundraiser_representative: ""
+fundraiser_type: ""
+termination_date: ""
+
+# Optional Clauses
+duration_limted: ""
+duration_unlimited: ""
+fixed_fee: ""
+percentage_fee: ""
+
+# Structured Headers
+level-1: ""
+level-2: ""
+level-3: ""
+
+# Properties
+no-indent: ""
+no-reset: ""
+level-style: ""
+
+---
+
+# Standard Fundraising or Message Marketing Agreement
+
+# Preamble
+
+This Agreement ("Agreement") is entered into as of {{date}} ("Effective Date") by and between {{fundraiser_full}} ("{{fundraiser}}"), and {{client_full}} ("{{client}}" or "client").
+
+The {{fundraiser}} is a {{fundraiser_type}} registered under the laws of {{fundraiser_reg}}, with an address of {{fundraiser_address}}, operating in and therefore subject to the laws of {{fundraiser_reg}}, and represented by {{fundraiser_representative}}.
+
+The {{client_full}} is a {{client_type}} registered under the laws of {{client_reg}}, with an address of {{client_address}}, operating in and therefore subject to the laws of {{client_reg}}, and represented by {{client_representative}}.
+
+IN CONSIDERATION OF THE MUTUAL PROMISES AND COVENANTS CONTAINED IN THIS AGREEMENT, THE PARTIES AGREE AS FOLLOWS.
+
+```
+l. Services to be Provided
+ll. Services*. {{client}} hereby agrees to engage {{fundraiser}} to provide {{client}} with services which are estimated to achieve the goals identified herein. The services performed under this Agreement may also include any other tasks which the parties may agree that shall be performed under this agreement. {{fundraiser}} hereby agrees to provide such services to {{client}}.
+ll. Services Specifics*. The specific services herein agreed to are detailed in Schedule 1 to this Agreement, Terms of Reference, which is integrated into this Agreement.
+ll. Goals of the Services*. {{fundraiser}} will attempt to achieve the established goals. These goals, to the extent they have been explicitly identified, have been included in Schedule 1 to this Agreement.
+ll. Limits of Representation and Affiliation*. It is expressly agreed that {{fundraiser}} is acting as an independent contractor and not as an employee, partner, or co-venturer in providing the Services under this Agreement. {{fundraiser}} and {{client}} acknowledge that this Agreement does not create a partnership or joint venture between them, and is exclusively a service contract.
+ll. Rights to Use Client's Branding Materials*. In connection with {{fundraiser}}'s services on behalf of {{client}}, {{fundraiser}} shall have the right to use {{client}}'s name, trademark, and other branding materials.
+l. Term of Agreement
+ll. Term*. This Agreement shall commence on the Effective Date and shall continue [{{duration_limted}} until {{termination_date}} unless terminated prior thereto] [{{duration_unlimited}} until terminated] in accordance with the terms of this Agreement.
+ll. |term| Voluntary Termination*. Either party shall have the right to terminate this Agreement, upon thirty (30) days written notice to the counter-party. Termination of this Agreement shall be deemed effective ("Termination Date") upon the expiration of thirty calendar days from the receipt of such notice unless termination is based on a Termination under |breach| of this Article or unless a date later than thirty (30) days following receipt of such notice is explicitly contained within the notice of Termination.
+ll. |breach| Termination After Failure to Cure Material Breach*. Either party may terminate this Agreement in the event of a material breach of this Agreement by the other party which continues without cure for thirty (30) or more days following the giving of notice of such breach to the breaching party.
+ll. Services Performed Prior to Termination*. In the event of termination under |term| or |breach| of this Article, {{client}} shall compensate {{fundraiser}} for services provided by {{fundraiser}} up to the Termination Date according to the terms of this Agreement.
+ll. Funds Collected After Termination*. Any funds collected after Termination of this Agreement, no matter the basis of such Termination, shall be deemed to be held in trust for the benefit of {{client}} and no deductions for fees or costs for the collection of such funds may be made by {{fundraiser}}. {{client}} shall be entitled to recover all funds collected after the Termination Date.
+l. Respective Obligations
+ll. Representation of {{client}}'s Activities*. In connection with all activities herein agreed to, {{fundraiser}}, its agents, servants, representatives and employees shall not misrepresent {{client}}'s name and activities in any way. {{client}} will provide {{fundraiser}} with a description of its organization and its activities which may be used in connection with sales and solicitations.
+ll. Agency Requirements*. {{fundraiser}}, its agents, servants, representatives and employees shall, in connection with all activities herein agreed to clearly state that they represent {{client}} in connection with the services herein agreed.
+ll. Control and Approval of Materials*. {{client}} shall have the right to monitor the services herein agreed and shall also have the right to direct, instruct, and otherwise limit {{fundraiser}}'s services -- if such is necessary for the purpose of preserving and protecting {{client}}'s good name. {{fundraiser}} shall provide all proposed materials to {{client}} for review prior to use or delivery to the public domain and both parties agree that {{fundraiser}} shall not use or allow for delivery to the public domain of said materials if {{client}} has expressly refused that such materials, or parts thereof, shall not be made available publicly.
+ll. Rights to List of {{fundraiser}} Operational Agents*. Both parties agree that {{client}}'s designated officers shall be given reasonable access to the names of {{fundraiser}}'s employees or staff who are directly involved in the provision of the services herein agreed within thirty (30) days of the Effective Date of this Agreement.
+ll. Rights to List of {{client}} Agents*. Both parties further agree that {{client}} shall, within thirty (30) days of the Effective Date of this Agreement, provide to {{fundraiser}} a list of designated persons who shall have sufficient agency authority to approve the services herein agreed.
+ll. Unauthorized Agents or Employees*. {{fundraiser}} shall not be in breach of this agreement if it does not heed the rejection or approval of any individual who is not on the authorized agent list provided by {{client}} as agreed hereunder.
+l. |money| Control of Funds and List of Donors
+ll. Deposit of Funds*. Each contribution in the control or custody of {{fundraiser}} shall, in its entirety and directly upon its receipt be deposited in an account at a bank or other financial institution that is solely in the name of {{client}} and over which {{client}} has sole control over withdrawals. {{fundraiser}} shall have no control, via signature authority, over the dispensation of such finds and shall not have access to the funds raised with the exception of any deductions as may be agreed to in |comp|. Both parties agree that all funds which are raised in connection with the services herein provided shall be deposited electronically into an account exclusively controlled by {{client}} and that {{fundraiser}} shall not be interpreted to be accepting any funds on behalf of {{client}}.
+ll. Provision of Financial Reports*. {{fundraiser}} shall provide to {{client}} a financial report within ten (10) working days following the conclusion of each three (3) month period during the term of this Agreement which contains, at a minimum, the aggregated and disaggregated amounts of contributions collected by {{fundraiser}} on {{client}}'s behalf according to the services provided in accordance with this Agreement.
+ll. Provision of Donor Reports*. {{fundraiser}} shall provide {{client}} within ten (10) working days following the conclusion of each three (3) month period during the term of this Agreement with a list of all donors. Such donor report shall include, at a minimum, a contribution history for each donor.
+ll. Ownership of Financial and Donor Reports*. The donor and financial reports agreed to in this Article shall be the sole and exclusive property of {{client}} and shall constitute confidential information which will be preserved and protected by {{fundraiser}} in accordance with the terms of this Agreement. At no time shall {{fundraiser}} have the right to sell or otherwise negotiate the contents of the list.
+ll. Required Retention of Donor List*. {{fundraiser}} is required by the laws of the State in which it is incorporated and operates to maintain a record of the names and addresses of all donors and the date that their donations were received for a three-year period after the term of this Agreement has been completed. Both parties agree that the retention of such donor reports by {{fundraiser}} does not violate the terms of this Article, nor will it violate {{client}}'s sole and exclusive ownership of such donor reports.
+l. |comp| Compensation of Fundraiser
+ll. Budget Preparation*. {{fundraiser}} shall prepare and submit a budget for approval by {{client}} within thirty (30) days following the Effective Date of this Agreement, or prior to the delivery of any services herein agreed. Thereafter, such agreed to budget shall be integrated into this Agreement as Schedule 3, Estimated Budget. In the event such a budget has been disclosed and agreed to prior to the Effective Date of this Agreement, such budget shall be integrated into this Agreement as Schedule 3, Estimated Budget.
+ll. Budget Specifics*. Both parties represent and warrant that the budget shall contain a good faith estimate of the funds required to perform the services herein agreed and shall contain a good faith estimate of the amount of funds which the services are likely to generate for {{client}}. The budget shall also contain an explicit listing of any assumptions, based on the relevant facts then known to both parties, on which the budget is build as regarding contribution rates or other assumptions utilized in the formulation of the budget.
+[{{fixed_fee}} ll. Compensation Agreement*. Both parties agree that {{fundraiser}} shall be entitled to a fixed fee amount which shall be paid in the amounts and times as agreed in Schedule 2, Fee Schedule, to this Agreement, which is fully integrated into this Agreement.]
+[{{percentage_fee}} ll. Compensation Agreement*. Both parties agree that {{fundraiser}} shall be entitled to a percentage of the funds raised by the delivery of the services herein agreed. Such amounts shall be paid in the amounts and times as agreed in Schedule 2, Fee Schedule, to this Agreement, which is fully integrated into this Agreement. The compensation paid to {{fundraiser}} shall contain a maximum amount which is also contained in Schedule 2 to this Agreement.]
+l. Property Rights
+ll. Work for Hire*. All works, whether or not copyrightable, which {{fundraiser}} creates in the delivery of the services herein agreed shall be the exclusive property {{client}} as works for hire under United States copyright law.
+ll. Return of Property Following Termination or Expiration*. Upon the expiration or termination of this Agreement, {{fundraiser}} will return to {{client}} any property, documentation, records, or confidential information which are the property of {{client}}. Where such property, documentation, records, or confidential information are contained in electronic form only, {{fundraiser}} shall, upon expiration or termination of this Agreement, delete any such items from all servers or other computers or disk drives under its control, or under the control of its employees, agents, consultants and contractors with the exception of only those property, documentation, records, or confidential information which are strictly necessary to comply with any legal requirements for record retention or disclosure mandated by United States federal law or the laws of the State of Tennessee.
+ll. Mandatory Record Retention*. The laws of the state in which {{fundraiser}} is incorporated require {{fundraiser}} to retain the records of any documents, information, notices or applications required to be prepared or filed pursuant to Tennessee Code § 48-101-513 for a period of at least three (3) years following the expiration or termination of this Agreement.
+l. Confidential Information
+ll. Definition of Confidential Information*. For purposes of this Agreement, the term “Confidential Information” means any financial, business, legal and technical information disclosed to {{fundraiser}} by or for {{client}} or any of its affiliates, suppliers, customers and employees. Information includes research, development, operations, marketing, transactions, regulatory affairs, discoveries, inventions, methods, processes, articles, materials, algorithms, software, specifications, designs, drawings, data, strategies, plans, prospects, know-how and ideas, whether tangible or intangible, and including any copies, abstracts, summaries, analyses and other derivatives thereof. Disclosure includes any act of transmitting the information whether previously, presently, or subsequently disclosed to recipient. For convenience, the {{client}} may, but is not required to, mark written Confidential Information with the legend "Confidential" or an equivalent designation, Confidential Information also includes information that by its nature would be understood by a reasonable person to be confidential.
+ll. Purpose of Disclosure*. All Confidential Information disclosed to the {{fundraiser}} will be used solely for the purpose of delivery of the services herein agreed and for no other purpose whatsoever. The {{fundraiser}} agrees to keep the {{client}}’s Confidential Information confidential and to protect the confidentiality of such Confidential Information with the same degree of care with which it protects the confidentiality of its own confidential information. {{fundraiser}} may disclose Confidential Information only to its employees, agents, consultants and contractors on a need-to-know basis, and only if such employees, agents, consultants and contractors have executed appropriate written agreements with {{fundraiser}} sufficient to enable {{fundraiser}} to enforce all the provisions of this Agreement. At the request of {{client}}, {{fundraiser}} shall return to {{client}} all Confidential Information of {{client}} (including any copies thereof) or certify the destruction thereof in the case where such Confidential Information has been disclosed only in electronic format.
+ll. Rights to Confidential Information*. All right title and interest in and to the Confidential Information shall remain with {{client}} or its licensors. Nothing in this Agreement is intended to grant any rights to {{fundraiser}} under any patents, copyrights, trademarks, or trade secrets of {{client}}.
+ll. Exemptions to Confidential Information*. The obligations and limitations set forth herein regarding Confidential Information shall not apply to information which is:
+lll. at any time in the public domain, other than by a breach on the part of the {{fundraiser}}; or
+lll. at any time rightfully received from a third party which had the right to and transmits it to the {{fundraiser}} without any obligation of confidentiality.
+ll. Mandatory Disclosure*. If the Confidential Information is sought by any third party, including by way of subpoena, other court process, or mandated by legislation or regulation applicable to {{fundraiser}}, the {{fundraiser}} shall inform the {{client}} of the request in sufficient time to permit the {{client}} to object to and, if necessary, seek court intervention to prevent the disclosure. Where disclosures have been included in this Agreement, explicit notification of such disclosures is hereby waived by {{client}}.
+ll. Contract and Campaign Registration and Mandatory Disclosure*. {{client}} understands and agrees that this Agreement, or an authentic copy thereof, shall be registered with the Secretary of State for the State of Tennessee in compliance with Tennessee Code §§ 48-101-513(g) or (i) and that all requirements therein for disclosure of this Agreement -- and the subject matter thereof -- shall be complied with by both parties.
+l. Indemnification and Warranties
+ll. Reciprocal Indemnifications for Legislative Compliance*. Both parties agree that each party to this Agreement shall have the sole and exclusive responsibility to comply with any and all relevant statutes or regulations which are relevant to this Agreement or the subject matter thereof. Further, each party to this Agreement agrees to indemnify, defend, and hold harmless from any and all claims, losses and / or damages which are directly connected to the delivery of the services herein agreed the counter-party for the indemnifying party's failure to comply with the relevant provisions of the Tennessee Charitable Solicitation Act, *as amended* and / or any other relevant statute or regulation which are relevant this Agreement or the subject matter thereof.
+ll. Indemnification by Client*. {{client}} shall have sole and exclusive responsibility for the content which is delivered in accordance with the services herein agreed. Due to this responsibility, {{client}} agrees that it shall indemnify, defend, and hold harmless {{fundraiser}} from all claims, losses and / or damages which result from any allegations of misrepresentation of the activities of {{client}}.
+l. Compliance
+ll. Compliance with Legislative and Regulatory Requirements*. This Agreement is subject to the issuance of all necessary governmental permits, registrations and approvals with respect to the services herein agreed in a timely manner by any governmental agencies having regulation capacity over such activities. Both parties agree {{fundraiser}} shall not commence with the delivery of services herein agreed until {{client}} has certified, in writing, that is has complied with all of its requirements as to permits, registrations, and governmental approvals required.
+ll. Mandatory Notification of Campaign*. Prior to the commencement of any fundraising campaign in connection with the services herein agreed, the laws of the state in which {{fundraiser}} is registered require filing of a campaign notice in the form required by the state. Both parties agree that the filing of such notice shall be the sole and exclusive responsibility of {{fundraiser}} and that any delays in compliance with this provision shall excuse the delivery of any services which are dependent upon the filing of such notification.
+l. Final Provisions
+ll. Interpretation*. This Agreement shall be construed and enforced pursuant to the laws of the State of Tennessee. Both Parties declare that this Agreement shall not be construed against any party on the grounds that such party drafted the Agreement or caused it to be drafted. The headings and titles of the paragraphs of this Agreement are for convenience purposes only, and are not intended to define, limit or construe the contents of the various paragraphs. Time is of the essence for any and all provisions which deal with funds including but not limited to compensation paid to {{fundraiser}} as defined in |comp| and Schedule 2 as well as the deposit of any funds collected under |money|.
+ll. Integration*. Both parties certify that this Agreement including the Schedules listed below sets forth the entire understanding of the parties with respect to the subject matter hereof and supersedes all prior agreements of the parties, whether oral or written, relating to any or all matters covered by and contained or otherwise dealt with in this Agreement.
+ll. Modifications*. Both parties agree that no provision of this Agreement may be modified, except by a written instrument signed and acknowledged by both parties.
+ll. Severance*. If any provision or clause of this Agreement, or any portion thereof, is held to be invalid by a court of competent jurisdiction, then such provision or clause shall be severed herefrom without affecting any other provision, the balance of which shall remain in full force and effect.
+ll. Waiver*. No waiver by either party for a breach or default hereunder by the other party shall be considered valid, unless expressed in a writing signed by the aggrieved party. Neither shall such waiver of any breach or default be deemed as a waiver of any prior or subsequent breach or default of the same or other provisions of this Agreement.
+ll. Notice*. Any notice to be given to either party shall be sent by certified mail, return receipt requested, or in the absence of such services, by electronic mail services, or in the absence of such services, by courier, to the other party at its last known electronic or physical address. Either party may change the address to which notices are to be sent by so notifying the other party in writing as set forth in this provision. If mailed as provided in this Agreement, notice shall be deemed to have been given as of the date of mailing.
+```
+
+Exhibits and Attachments:
+
+* Schedule 1 -- Terms of Reference
+* Schedule 2 -- Fee Schedule
+* Schedule 3 -- Estimated Budget
+
+IN WITNESS HEREOF, the parties have executed this Agreement as of the date set forth above.
+
+For the {{fundraiser}} - Signature: ______________________________
+
+Date:________________________ Print: _________________________
+
+For the {{client}} - Signature: ______________________________
+
+Date: _______________________ Print: _________________________
