@@ -1,0 +1,275 @@
+---
+
+# Mixins
+beneficiary: ""
+beneficiary_location: ""
+choice_of_law: ""
+cost_plus_percent: ""
+financer: ""
+financer_location: ""
+goods_amount: ""
+maximum_indebtedness: ""
+
+# Optional Clauses
+note_and_security: ""
+note_only: ""
+secured_assets_to_be_insured: ""
+
+# Structured Headers
+level-1: ""
+level-2: ""
+level-3: ""
+
+# Properties
+no-indent: ""
+no-reset: ""
+level-style: ""
+
+---
+
+THIS AGREEMENT FOR FINANCING ON THE BASIS OF MURABAHA is made on @today.
+
+**BETWEEN**
+
+{{beneficiary}}, having its place of business / residence at {{beneficiary_location}} hereinafter referred to as the Client (which expression shall, where the context admits, mean and include its successors in interest and assigns) acting as Mudarib of the ONE PART;
+
+**AND**
+
+{{financer}}, having its place of business / residence at {{financer_location}}, hereinafter referred to as the Institution, (which expression shall, where the context admits, mean and include its successors in interest and assigns) acting as Rab Al-Maal of the OTHER PART.
+
+**NOW THEREFORE IT IS HEREBY AGREED BY AND BETWEEN THE PARTIES AS FOLLOWS**
+
+```
+l. Purpose
+This Agreement sets out the terms and conditions upon and subject to which the Institution has agreed to purchase the Goods from time to time from the Suppliers and upon which the Institution has agreed to sell the same to the Client from time to time by way of Murabaha facility.
+l. Definitions
+In this Agreement, unless the context otherwise requires:
+ll. *Agent* means the person appointed under the terms of the Agency Agreement annexed as Schedule A to this Agreement.
+ll. *Agency Agreement* means the Agency Agreement between the Institution and the Client as Schedule A to this Agreement.
+ll. *Cost Price* means the amount which may be incurred by and/or on behalf of the Institution for the acquisition of Goods plus all costs, duties, taxes and charges incidental to and connected with acquisition of Goods.
+ll. *Contract Price* means aggregate of Cost Price and a Profit of {{cost_plus_percent}} per cent calculated thereon payable by the Client to the Institution for Goods as stipulated in Part-III of the Declaration annexed as Schedule C to this Agreement to be issued by the Institution from time to time.
+ll. *Goods* means the Goods as may be specified in the Purchase Requisition(s) to be issued by the Client from time to time.
+ll. *Payment Date* or *Payment Dates* means the respective dates for the payment of the installments of the Contract Price or part thereof by the Client to the Institution as specified in the Schedule of Payments annexed as Schedule D to this Agreement.
+ll. *Purchase Requisition* means a request from time to time by the Client to the Institution as per the Purchase Requisition Form Annexed as Schedule B to this Agreement.
+ll. *Supplier* means the supplier from whom the Institution acquires Title to the Goods.
+ll. *Value Date* means the date on which the Cost Price will be disbursed by the Institution as stated in the Purchase Requisition.
+l. Sale and Purchase of the Goods
+ll. The Institution agrees to sell the Goods to the Client to a maximum amount of {{goods_amount}} and the Client agrees to purchase the Goods from the Institution from time to time at the Contract Price.
+ll. Upon receipt by the Institution of the Client's Purchase Requisition advising the Institution to purchase the Goods and making payment therefore, the Institution shall acquire the Goods either directly or through the Agent.
+ll. The payment for such goods shall be made by the institution directly to the Supplier on submission of Purchase Requisition by the Client.
+ll. Upon receipt of purchase of Goods by the Institution, directly or through an Agent, from the Supplier, the Goods shall be at the risk and cost of the Institution until such time that these Goods are sold to the Client, to be evidenced by the acceptance, duly signed and endorsed by the Institution in Part-III of the Declaration.
+ll. After the purchase of Goods by the Institution, the Client shall offer to purchase the Goods from the Institution at the Contract Price in the manner provided in the Part-II of the Declaration.
+ll. The Client's purchase of Goods from the Institution shall be effected by the exchange of an offer and acceptance between the Client and the Institution as stipulated in the Declaration.
+l. Security
+[{{note_and_security}} ll. As security for the indebtedness of the Client under this Agreement, the Client shall:
+lll. Furnish to the Institution collateral(s)/security(ies), substantially in the form and substance attached hereto as Murabaha Document #7;
+lll. Execute such further deeds and documents as may from time to time be required by the Institution for the purpose of more fully securing and or perfecting the security created in favour of the Institution; and
+lll. Create such other securities to secure the Client's obligations under this Agreement as the parties hereto, may by mutual consent agree from time to time.
+ll. In addition to above, the Client shall execute a demand promissory note in favour of the Institution for the amount of the Contract Price.]
+[{{note_only}} As security for the indebtedness of the Client under this Agreement, the Client shall execute a demand promissory note in favour of the Institution for the amount of the Contract Price.]
+l. Fees and Expenses
+The Client shall pay to the Institution on demand within 15 days of such demand being made, all expenses (including legal and other ancillary expenses) incurred by the Institution in connection with the negotiation, preparation and execution of this Agreement and of amendment or extension of or the granting of any waiver or consent under this Agreement.
+l. Payment of Contract Price
+ll. All payments to be made by the Client under this Agreement shall be made in full, without any set-off, roll over, or counterclaim whatsoever, on the due date and when the due date is not a Business Day, on the first Business Day immediately following the due date save as provided in |due_day_waiver|, free and clear of any deductions or witholdings, to a current account of the Institution as may be notified from time to time, and the Client will only be released from its payment obligations hereunder by paying sums due into that account.
+ll. |due_day_waiver| If at any time the Client is required to make any non refundable and non-adjustable deduction or withholding in respect of Taxes from any payment due to the Institution under this Agreement, the sum due from the Client in respect of such payment shall be increased to the extent necessary to ensure that, after the making of such deduction or withholding, the Institution receives on the Payment Date, a net sum equal to the sum which it would have received had no such deduction or withholding been required to be made and the Client shall indemnify the Institution against any losses or costs incurred by the Institution by reason of any failure of the Client to make any such deduction or withholding. The Client shall promptly deliver to the Institution any receipts, certificates or other proof evidencing the amounts (if any) paid or payable in respect of any deduction or withholding as aforesaid.
+l. Client's Representations and Warranties
+The Client warrants and represents to the Institution that:
+ll. The execution, delivery and performance of this Agreement by the Client will not:
+lll. contravene any existing law, regulations or authorization to which the Client is subject;
+lll. result in any breach of or default under any agreement or other instrument to which the Client is a party or is subject to; or
+lll. contravene any provision of the constitutive documents of the Client or any resolutions adopted by the board of directors or members of the Client.
+ll. The financial statements submitted together with the notes to the accounts and all contingent liabilities and assets that are disclosed therein represent a true and fair financial position of the business and to the best of the knowledge of the Client, and that there are no material omissions and/or misrepsentations.
+ll. All requisite corporate and regulatory approvals required to be obtained by the Client in order to enter into this Agreement are in full force and effect and such approvals permit the Client, *inter alia*, to obtain financial facilities under this Agreement and perform its obligations hereunder and that the execution of this Agreement by the Client and the exercise of its rights and performance of its obligations hereunder, constitute private and commercial acts done for private and commercial purposes.
+ll. No material litigation, arbitration or administrative proceedings is pending or threatened against the Client or any of its assets.
+ll. It shall inform the Institution within five business days of an event or happening which may have an adverse effect on the financial position of the Client.
+l. Undertaking
+The Client covenants to and undertakes with the Institution that so long as the Client is indebted to the Institution in terms of this Agreement:
+ll. It shall inform the Institution of any Event of Default or any event, which with the giving of notice or lapse of time or both would constitute an Event of Default forthwith upon becoming aware thereof.
+ll. It shall provide to the Institution, upon written request, copies of all contracts, agreements and documentation relating to the purchase of the Goods.
+ll. The Client shall do all such things and execute all such documents, including the delivery of such documentation and legal opinion(s) as the Institution may reasonably require from time to time which in the judgment of the Institution may be necessary to:
+lll. enable the Institution to assign or otherwise transfer the liability of the Client in respect of the Contract Price to any creditor of the Institution or to any third party as the Institution may deem fit at its absolute discretion;
+lll. create and perfect the Security;
+lll. maintain the Security in full force and effect at all times including the priority thereof;
+lll. maintain, insure and pay all Taxes assessed in respect of the Secured Assets and protect and enforce its rights and title, and the rights of the Institution in respect of the Secured Assets, and;
+lll. preserve and protect the Secured Assets.
+[{{secured_assets_to_be_insured}} ll. It will satisfactorily insure all its insurable assets with reputable companies offering protection under the Islamic concept of Takaful. The Secured Assets shall be comprehensively insured (with a reputable insurance company to the satisfaction of the Institution) against all insurable risks, which may include fire, arson, theft, accidents, collision, body and engine damage, vandalism, riots and acts of terrorism, and to assign all policies of insurance in favour of the Institution to the extent of the amount from time to time due under this Agreement, and to cause the notice of the interest of the Institution to be noted on the policies of insurance, and to punctually pay the premium due for such insurances and to contemporaneously therewith deliver the premium receipts to the Institution. Should the Client fail to insure or keep insured the Secured Assets and/or to deliver such policies and premium receipts to the Institution, then it shall be lawful for the Institution, but not obligatory, to pay such premia and to keep the Secured Assets so insured and all cost charges and expenses incurred by it for the purpose shall be charged to and paid by the Client as if the same were part of the Indebtedness. The Client expressly agrees that the Institution shall be entitled to adjust, settle or compromise any dispute with the insurance company(ies) and the insurance arising under or in connection with the policies of insurance and such adjustments/compromises or settlements shall be binding on the Client and the Institution shall be entitled to appropriate and adjust the amount, if any received, under the aforesaid policy or policies towards part or full satisfaction of the Client's indebtedness arising out of the above arrangements and the Client shall not raise any question or objection that larger sums might or should have been received under the aforesaid policy nor the Client shall dispute its liability(ies) for the balance remaining due after such payment/adjustment.]
+ll. Except as required in the normal operation of its business, the Client shall not, without the written consent of the Institution, sell, transfer, lease or otherwise dispose of all or a sizeable part of its assets, or undertake or permit any merger, consolidation, dismantling or reorganization which would materially affect the Client's ability to perform its obligations under any of this Agreement.
+ll. The Client shall not (and shall not agree to), except with the written consent of the Institution, create, incur, assume or suffer to exist any Lien whatsoever upon or with respect to the Secured Assets and any other assets and properties owned by the Client which may rank superior, *pari passu* or inferior to the security created or to be created in favour of the Institution pursuant to this Agreement.
+ll. It shall immediately inform the Institution of any event or factor, any litigation or proceedings pending or threatened against the Client which could materially and adversely affect or be likely to materially and adversely affect:
+lll. the financial condition of the Client;
+lll. business or operations of the Client; and
+lll. the Client's ability to meet its obligations when due under this Agreement.
+ll. It shall immediately inform the Institution of any change in the directors of the Client.
+ll. It shall immediately inform the Institution of any actual or proposed termination, rescission, discharge (otherwise than by performance), amendment or waiver or indulgence under any material provision of this Agreement.
+ll. It shall immediately inform the Institution of any material notice or correspondence received or initiated by the Client relating to the License, consent or authorization necessary for the performance by the Client of its obligations under this Agreement.
+l. Conditions Precedent
+ll. The obligation of the Institution to pay the Cost Price shall be subject to the receipt by the Institution (in form and substance acceptable to the Institution) at least five (5) Business Days prior to the Value Date of the Purchase Requisition.
+ll. The obligation of the Institution to pay the Cost Price on the Value Date shall be further subject to the fulfillment of the following conditions (as shall be determined by the Institution in its sole discretion):
+lll. The payment of Cost Price by the Institution to the Supplier on the Value Date shall not result in any breach of any law or existing agreement.
+lll. The Security has been validly created, perfected and is subsisting in terms of this Agreement.
+lll. The Institution has received such other documents as it may reasonably require in respect of the payment of the Cost Price.
+lll. No event or circumstance which constitutes or which with the giving of notice or lapse of time or both, would constitute an Event of Default shall have occurred and be continuing or is likely to occur and that the payment of the Cost Price shall not result in the occurrence of any Event of Default.
+lll. All fees, commission, expenses required to be paid by the Client to the Institution have been received by the Institution.
+l. Events of Default
+There shall be an Event of Default if in the opinion of the Institution:
+ll. Any representation or warranty made or deemed to be made or repeated by the Client in or pursuant to this Agreement or in any document delivered under this Agreement is found to be incorrect.
+ll. Any Indebtedness of the Client to the Institution in excess of {{maximum_indebtedness}} is not paid when due or becomes due or capable of being declared due prior to its stated maturity.
+ll. Notwithstanding anything contained herein, the Institution may without prejudice to any of its other rights, at any time after the happening of an Event of Default by notice to the Client declare that entire amount by which the Client is indebted to the Institution shall forthwith become due and payable.
+l. Penalty
+Where any amount is required to be paid by the Client under this Agreement on a specified date and is not paid by that date, or an extension thereof, permitted by the Institution without any increase in the Contract Price, the Client hereby undertakes to pay directly to the Charity Fund, constituted by the Institution, a sum calculated 0.12% per annum for the entire period of default, calculated on the total amount of the obligations remaining un-discharged. The Charity Fund shall be used at the absolute discretion of the Institution, exclusively for the purposes of approved charity.
+l. Indemnities
+The Client shall indemnify the Institution against any expense which the Institution shall prove as rightly incurred by it as a consequence of:
+lll. the occurrence of any Event of Default;
+lll. the purchase and sale of Goods or any part thereof by the Client or the ownership thereof; and
+lll. any mis-representation.
+l. Set-Off
+The Client authorizes the Institution to apply any credit balance to which the Client is entitled or any amount which is payable by the Institution to the Client at any time in or towards partial or total satisfaction of any sum which may be due or payable from the Client to the Institution under this Agreement.
+l. Force Majeure
+Any delays in or failure by a Party hereto in the performance hereunder if and to the extent it is caused by the occurrences or circumstances beyond such Party's reasonable control, including but not limited to, acts of God, fire, strikes or other labor disturbances, riots, civil commotion, war (declared or not) sabotage, any other causes, similar to those herein specified which cannot be controlled by such Party. The Party affected by such events shall promptly inform the other Party of the occurrence of such events and shall furnish proof of details of the occurrence and reasons for its non-performance of whole or part of this Agreement. The parties shall consult each other to decide whether to terminate this Agreement or to discharge part of the obligations of the affected Party or extend its obligations on a best effort and on an arm's length basis.
+l. Final Provisions
+ll. This Agreement shall be construed and enforced pursuant to the laws of {{choice_of_law}}. Both Parties declare that Agreement shall not be construed against any party on the grounds that such party drafted the Agreement or caused it to be drafted. The headings and titles of the paragraphs of this Agreement are for convenience purposes only, and are not intended to define, limit or construe the contents of the various paragraphs. Time is of the essence of every term, condition, obligation and provision hereof unless otherwise stated or implied.
+ll. Both parties certify that this Agreement including the Schedules and Attachments listed below sets forth the entire understanding of the parties with respect to the subject matter hereof and supersedes all prior agreements of the parties, whether oral or written, relating to any or all matters covered by and contained or otherwise dealt with in this Agreement. Both parties agree that no provision of this Agreement may be modified, except by a written instrument duly signed and acknowledged by each of the parties hereto.
+ll. If any provision or clause of this Agreement, or any portion thereof, is held to be invalid by a court of competent jurisdiction, then such provision or clause shall be severed herefrom without affecting any other provision, the balance of which shall remain in full force and effect.
+ll. This Agreement shall be binding upon and inure to the benefit of and be enforceable by the Institution, the Client, and respective successors permitted assigns and transferees of the parties hereto, provided that the Client shall not assign or transfer any of its rights or obligations under this Agreement without the written consent of the Institution. The Institution may assign all or any part of its rights or transfer all or any part of its obligations and/or commitments under this Agreement to any Institution, or other person. The Client shall not be liable for the costs of the assignment and/or transfer of commitments hereunder by the Institution. If the Institution assigns all or any part of its rights or transfers all or any part of its obligations and commitments as provided in this Clause, all relevant references in this Agreement to the Institution shall thereafter be construed as a reference to the Institution and/or its assignee(s) or transferee(s) (as the case may be) to the extent of their respective interests.
+ll. No waiver by either party for a breach or default hereunder by the other party shall be considered valid, unless expressed in a writing signed by the aggrieved party. Neither shall such waiver of any breach or default be deemed as a waiver of any prior or subsequent breach or default of the same or other provisions of this Agreement.
+ll. Any notice to be given to either party shall be sent by registered or certified mail, return receipt requested, or in the absence of such services, by courier, to the other party at its last known address. Either party may change the address to which notices are to be sent by so notifying the other party in writing as set forth in this provision. If mailed as provided in this Agreement, notice shall be deemed to have been given as of the date of mailing.
+ll. Both parties each represent and warrant that they have the power, authority and right to enter into this Agreement and to carry out and perform the terms, covenants and conditions hereof. Both parties certify they have been given the opportunity to consult with appropriate legal counsel, and have taken advantage of that opportunity to the extent desired. Both parties further acknowledge they have read and understand this Agreement, are fully aware of its legal effect, and have entered into it freely based on the exercise of their own judgment and free will.
+```
+
+Schedules:
+
+* Schedule A: Agency Agreement
+* Schedule B: Purchase Requisition
+* Schedule C: Declaration
+* Schedule D: Schedule of Payments
+
+IN WITNESS HEREOF, the parties have executed this Agreement as of the date set forth above.
+
+For the Client - Signature: ______________________________
+
+Date:________________________ Print: _________________________
+
+For the Institution - Signature: ______________________________
+
+Date: _______________________ Print: _________________________
+
+
+
+
+Schedule A: Agency Agreement
+
+With reference to the Murabaha Agreement dated @today, we hereby confirm our agreement to appoint you as our Agent to acquire for our account and benefit goods of the description to be specified in the purchase requisition which shall be issued from time to time, under the following terms and conditions;
+
+As an Agent of the Institution, you will be responsible to receive the Goods directly from the Supplier (s) from time to time in terms of Purchase Requisition(s) to be duly endorsed by the Institution and provide us a declaration confirming acquisition thereof, alongwith a statement containing relevant details including place of storage.
+
+The bank shall prepare a Pay Order, Cheque, Wire Transfer, or other Payment means in the name of Supplier that will be handed over to the Agent. The supplier will issue an invoice in the name of the Client.
+
+In case of failure on your part to: acquire goods in terms of this agreement and to refund, in consequence, the amount paid by the Institution therefore, and/or repay the amount, if any, due from you upon a notice of revocation, if any, served by you in the manner provided hereunder; you shall become liable to pay a penalty to the institution by credit to a special Account, separately maintained by the institution, an amount which shall be 5%, as on the date of such default by you. This amount will be calculated on the entire amount due from you, under this Agency Agreement and for the entire period for which the default subsists. The amount of such penalty shall be utilized by the institution only for the purposes of charity, in its absolute discretion.
+
+The Institution shall have the authority, in its absolute discretion to refuse the disbursement of funds or to revoke this Agency Agreement at any time, subject to a notice in writing served given at least seven (7) days prior to revocation.
+
+You may revoke this Agency Agreement by giving a notice in writing of at least seven (7) days prior to the date of intended revocation, provided that any amount due by you to the Institution shall become payable immediately and until such time that any such amount due from you has been discharged in full, this agreement shall not be deemed to have been revoked.
+
+This Agency Agreement shall remain in force until revoked and shall be governed by the prevailing laws of {{choice_of_law}} and the Murabaha Agreement dated @today.
+
+Kindly signify your acceptance of the foregoing terms and conditions by signing the duplicate.
+
+For the Agent - Signature: ______________________________
+
+Date:________________________ Print: _________________________
+
+For the Institution - Signature: ______________________________
+
+Date: _______________________ Print: _________________________
+
+
+
+
+Schedule B: Purchase Requisition
+
+Date:
+
+Dear Sirs,
+
+Please refer to the Murabaha Agreement dated @today (the "Agreement") between {{beneficiary}} (the "Client") and {{financer}} (the "Institution").
+
+The Client hereby requests you to purchase the Goods from the Suppliers as per the provisions of the Agreement as follows:
+
+* Good: __
+* Amount: __
+* Cost Price: __
+* Value Price: __
+
+Please make arrangements to pay the Cost Price to the Supplier in immediately available funds.
+
+* Name of Supplier: __
+* Address of Supplier: __
+* Supplier Bank Details: __
+
+All the terms and conditions of the Agreement shall form an integral part of this Requisition.
+
+For the Client - Signature: ______________________________
+
+Date:________________________ Print: _________________________
+
+
+
+
+
+Schedule C: Declaration
+
+# Part 1: Confirmation of Goods Purchased
+
+Date:
+
+With reference to the Agency Agreement dated @today and the Institution's instructions contained in Purchase Requisition dated: __________, we hereby declare and certify that acting as your Agent, we have delivered the payment to the supplier as per the Purchase Requisition and purchased on your behalf the Goods as detailed in the Purchase Requisition.
+
+Further the Goods are in my/our possession at the following address:
+
+__
+__
+__
+
+Copies of bill/cash memo/invoice issued in the name of ____________ by the Supplier are attached.
+
+For the Agent - Signature: ______________________________
+
+Date:________________________ Print: _________________________
+
+============================
+
+# Part 2: Offer to Purchase
+
+I offer to purchase the above Goods from you for a Contract Price of __________________.
+
+I undertake to pay the Contract Price referred to above in lump sum on _______, or in __________ installments, if agreed by the Institution, as per the attached Payment Schedule.
+
+
+For the Agent - Signature: ______________________________
+
+Date:________________________ Print: _________________________
+
+============================
+
+# Part 3: Institution's Acceptance
+
+We have accepted your offer and have sold the above-mentioned Goods to you on the following terms and conditions.
+
+The Contract Price is __________________ comprising cost incurred ___________________, plus Profit ______________.
+
+The Contract Price stated above shall be payable in lump sum on _______, or in __________ installments, as per the attached Payment Schedule.
+
+For the Institution - Signature: ______________________________
+
+Date: _______________________ Print: _________________________
+
+
+
+
+
+Schedule D: Schedule of Payments
+
+|Payment Date|Installment Amount|
++============+==================+
+|            |                  |
++------------+------------------+
