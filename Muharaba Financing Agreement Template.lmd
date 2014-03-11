@@ -1,0 +1,160 @@
+---
+
+# Mixins
+amount_financed: ""
+beneficiary: ""
+beneficiary_location: ""
+choice_of_law: ""
+client_losses_percent: ""
+client_profit_percent: ""
+financer: ""
+financer_jurisdiction: ""
+financer_location: ""
+institution_losses_percent: ""
+institution_profit_percent: ""
+length_of_financing_in_months: ""
+outside_payment_specifics: ""
+
+# Optional Clauses
+client_participates_in_losses_false: ""
+client_participates_in_losses_true: ""
+financer_is_institution: ""
+financing_is_deposited: ""
+financing_is_sent: ""
+
+# Structured Headers
+level-1: ""
+level-2: ""
+level-3: ""
+
+# Properties
+no-indent: ""
+no-reset: ""
+level-style: ""
+
+---
+
+THIS AGREEMENT FOR FINANCING ON THE BASIS OF MUDARABA is made on @today.
+
+**BETWEEN**
+
+{{beneficiary}}, having its place of business / residence at {{beneficiary_location}} hereinafter referred to as the Client (which expression shall, where the context admits, mean and include its successors in interest and assigns) acting as Mudarib of the ONE PART;
+
+**AND**
+
+{{financer}}, having its place of business / residence at {{financer_location}}, hereinafter referred to as the Institution, (which expression shall, where the context admits, mean and include its successors in interest and assigns) acting as Rab Al-Maal of the OTHER PART.
+
+**PREAMBLE**
+
+**WHEREAS** the Client and the Institution wish to enter into a Muharaba in conformity with the Islamic Shariah for the purpose of carrying out the Project described herein.
+
+**AND WHEREAS** the Client has presented to the Institution an application to finance the Project described herein and has satisfied conditions precedent and other formalities to avail of such financing;
+
+**NOW THEREFORE IT IS HEREBY AGREED BY AND BETWEEN THE PARTIES AS FOLLOWS**
+
+```
+l. Definitions
+The parties agree that the following terms used in this agreement shall have the following meanings:
+ll. *Client Asset Finance* means the sum estimated by the Client as necessary to acquire the assets required for the Project as disclosed on the Project Information Form annexed as Exhibit A.
+ll. *Cash Flow and Revenue Projection* means the financial projections for the project prepared by the client and annexed as Exhibit B.
+ll. *Management Services* means the technical management and supervision services, required to ensure the success of the Project described in Exhibit B hereto.
+ll. *Profit* means the amount of gross profit available for distribution after deduction of permissible expenses as may be agreed between the client and the Institution in terms of Schedule of Expenses annexed as Exhibit C.
+ll. *Client Information Form* means Exhibit D prepared by the Client, disclosing certain information regarding the Client.
+ll. *Client Financials* means the Balance Sheet and Profit and Loss Statement of the Client for the last three years, prepared by the Client and audited by an independent accountant.
+ll. *Draw Down Dates* means the dates specified in Exhibit E at which the Institution is obliged to provide funds by credit to the Account.
+ll. *Project Assets* means all Asset Finance and all things acquired with such finance and the proceeds and profits thereof until distributed to the client and the Institution in accordance with the terms and conditions of this Agreement.
+l. |investment| Investment
+The parties agree that a sum of {{amount_financed}} by way of finance required for the Project as estimated by the Client shall be supplied by the Institution for a period of {{length_of_financing_in_months}} months hereof.
+l. Payment and Accounts
+ll. The parties agree that the amount agreed in |investment| shall be [{{financing_is_deposited}} deposited into the account of the Client.][{{financing_is_sent}} send to an outside vendor of the Client with the following specifics: {{outside_payment_specifics}}.]
+ll. All receivables from third parties arising from the Project or the transfer of Project Assets shall be collected only through the Account.
+ll. The Institution shall have the right to refrain from the payment of any cheque or transfers from the Account if it reasonably appears to the Institution that such amounts are not included in the Cash Flow and Revenue Projections and do not directly or indirectly relate to the Project.
+l. Representations of the Client
+The Client represents to the Institution that:
+ll. The Client possesses all necessary powers and licenses to conduct its present business and the Project.
+ll. The Client Information Form is true and correct.
+ll. The Client is experienced and knowledgeable in all business matters relating to the Project.
+ll. The Client has prepared with all due care the Project Information Form and the Cash Flow and Revenue Projection based on his experience and knowledge and has completed all reasonable investigation to assure that such are true and correct and disclose all factors relevant to the Institution's evaluation of the Project.
+ll. The Client Financials are true and correct according to generally accepted accounting principles consistently applied accurately representing the Client's financial status on the dates and the profit and loss for the periods indicated, an no liabilities, fixed or contingent exist at the indicated dates other than as appear in the Client Financials.
+ll. The Client has suffered no material adverse change in business operation or financial position since the date of the most recent Client Financials supplied to the Institution.
+[{{financer_is_institution}} l. Representations of the Institution
+The Institution represents to the Client that on the date of this Agreement:
+ll. The Institution is a corporation organised under the laws of {{financer_jurisdiction}} and possesses all necessary powers and licenses to conduct its business and to finance the Project as provided by this Agreement.]
+l. General Covenants of the Client
+The Client undertakes to the Institution that the Client shall:
+ll. Promptly give notice to the Institution of any change in the information disclosed on the Client Information Form.
+ll. Render the Management Services with due care and all reasonable commercial diligence expected of an experienced businessman to ensure the success of the Project according to the description of the Project Information Form and the Cash Flow and Revenue Projection.
+ll. Utilize the Project assets exclusively for purposes of the Project as specified in the Cash Flow and Revenue Projection.
+ll. Disburse all funds for the purpose of the Project only through the Account by cheque or transfer against proper supporting invoices maintained by the Client but available for inspection by the Institution or its agents.
+ll. Collect all receivables from third parties arising from the Project or the transfer of Project assets or other documents requiring payment from third parties directly to the Account.
+ll. Maintain all Project assets in the name of the Client, but physically segregated from other assets of the Client and free and clear of all liens and encumbrances except those in favour of the Institution.
+ll. Submit the following to the Institution, prepared according to the instructions of the Institution:
+lll. A cash flow and revenue statement of the Project for the previous quarter, with a clear explanation of each variation from the Cash Flow and Revenue Projection, within 30 days of the close of each quarter.
+lll.  A balance sheet and income statement of the Client prepared in accordance with principles utilized in the Client Financials consistently applied. The annual balance sheet and income statement shall be audited by an independent firm of accountants approved by the Institution, and audited documents shall be presented to the Institution within 120 days of the close of the Client's accounting year.
+ll. Maintain true and correct books of account relating to the Project together with all invoices, records contracts and all other documentation.
+ll. Supply to the Institution any information, material or document relating to the Project or to Client's financial status, and grant access to the Institution or its agents to all books and relating to the Project and to the Client's financial statements.
+ll. Immediately disclose in writing to the Institution any business factors of which the Client becomes aware and which might adversely affect the success of the Project.
+ll. Not effect directly or indirectly any transaction on behalf of the Project in which the Client or any family member of the Client or any shareholder of the Client, if a corporation, is interested directly or indirectly without consent of the Institution.
+ll. Consult with the Institution in any matter, including but not limited to insurance of the assets Muharaba with a view to determining the policy to be followed in order to ensure the proper implementation of this Agreement, but without any obligation of the Client to compromise rights of the Client hereunder.
+ll. Under its sole responsibility, conduct the Project in conformity with all applicable civil and criminal laws.
+ll. Conduct the Project without violation of the principles of the Islamic Shariah.
+ll. It will satisfactorily insure all its insurable assets of the Project with reputable companies offering protection under the Islamic concept of Takaful. Until the Islamic concept of Takaful is not available the such assets shall be comprehensively insured (with a reputable insurance company to the satisfaction of the Institution) against all insurable risks, which may include fire, arson, theft, accidents, collision, body and engine damage, vandalism, riots and acts of terrorism, and to assign all policies of insurance in favour of the Institution to the extent of the amount from time to time due under this Agreement, and to cause the notice of the interest of the Institution to be noted on the policies of insurance, and to punctually pay the premium due for such insurance's and to contemporaneously therewith deliver the premium receipts to the Institution. Should the Client fail to insure or keep insured the aforesaid and/or to deliver such policies and premium receipts to the Institution, then it shall be lawful for the Institution but not obligatory to pay such premia and to keep the Secured Assets so insured and all cost charges and expenses incurred by it for the purpose shall be charged to and paid by the Client as if the same were part of the monies due. The Client expressly agrees that the Institution shall be entitled to adjust, settle or compromise any dispute with the insurance company(ies) and the insurance arising under or in connection with the policies of insurance and such adjustments/compromises or settlements shall be binding on the Client and the Institution shall be entitled to appropriate and adjust the amount, if any received, under the aforesaid policy or policies towards part or full satisfaction of the Client's indebtedness arising out of the above arrangements and the Client shall not raise any question or objection that larger sums might or should have been received under the aforesaid policy nor the Client shall dispute its liability(ies) for the balance remaining due after such payment/adjustment.
+l. General Covenants of the Institution
+The Institution undertakes to the Client that it shall:
+ll. Make all payments of Finance required of the Institution under this Agreement to the Account on the Draw-Down Dates.
+ll. Whenever the circumstances so require consult with the Client in any matter with a view to determining the policy to be followed in order to ensure the proper implementation of this Agreement, but without any obligation of the Institution to compromise its right, hereunder.
+ll. Perform its obligations under this Agreement without violation of the principles of Islamic Shariah.
+l. Participation in Profit
+ll. The participation in profit will be in accordance with the following ratio:
+lll. {{client_profit_percent}}% of the profit will be for the Management Services and payable to the Client.
+lll. {{institution_profit_percent}}% of the profit will be payable to the Institution.
+ll. On Termination Date, the accounts of the Mudaraba shall be drawn up in accordance with accepted accounting principles, and the profit if any due to the Client and the Institution shall be worked out and paid in the proportion specified above, subject to adjustment of any provisional payments made, (plus the amount paid by the Institution after deducting loss if any).
+ll. At the sole discretion of the Institution, the Client may become entitled to receive a Good Performance Bonus at a rate to be determined by the Institution.
+l. Participation in Losses
+ll. The participation in losses will be in accordance with the following ratio:
+lll. {{institution_losses_percent}}% of the loss in the Project will be borne by the Institution.
+[{{client_participates_in_losses_true}} lll. {{client_losses_percent}}% of the loss in the Project will be borne by the Client.]
+[{{client_participates_in_losses_false}} lll. The client will receive no compensation for his Management Services, and will be liable for the loss if it is proven that he has breached his obligations or is proven to be failing in the discharge of his obligations under this Agreement.]
+ll. In the event of the Project showing losses during the currency of this Agreement the client shall forthwith give notice of such losses to the Institution together with all accounts and details pertaining thereto and such other information and records as may be required by the Institution. Notwithstanding the above, the Institution shall only be liable for the losses in the manner specified if the said losses have not been caused due to misconduct on the part of the Client in out the Project's business and operations or as a result of his negligence or inefficiency, including non-compliance with the terms and conditions of this Agreement.
+l. Taxation
+On behalf of the Project, the Client shall be liable for and shall punctually and regularly pay all taxes, duties, cesses and other charges relating to the Project's business and operations.
+l. Termination
+ll. Subject to other provisions of this Agreement, it is agreed that upon full payment on Termination Date or earlier, if proceeds have been received, the Modaraba shall stand redeemed.
+ll. While the amount invested by the Institution must be repaid on the due date, mentioned above, the accounts of the Modaraba will be drawn up within 7 days thereof and the agreed share the Institution's profit will be promptly paid.
+l. Management and Control
+Subject only to the express terms of this Agreement, complete management and control of the Project is exclusively vested in the Client and the Client shall be solely responsible for the management and control of the Project.
+l. Assumption of Management of the Project by the Institution
+The Institution shall have the right to terminate by notice the powers of the Client to manage the Project and assume the same if the Client violates any obligation hereunder, or if for any cause the results of the Project depart in a material adverse manner from those projected by the Client in the Cash Flow and Revenue Projections. In such event:
+ll. The Client shall be entitled to receive his share of the profit, if any, until the date of termination stated in the notice. Thereafter, the Institution shall be entitled to the whole profit.
+ll. The assumption of management by the Institution shall not discharge the Client of any obligation hereunder other than the obligation to render the Management Services.
+ll. The assumption of management by the Institution with respect to the Project shall in no event be deemed to affect the liability of the Client to the Institution, with respect to any other facilities granted under any other agreement between the Client and the Institution whether or not the proceeds of such were employed in connection with the Project.
+ll. On assumption of management of the Project by the Institution, the Client will, on the written demand of the Institution, deliver to it all Project Asset, all books, records, contracts and other documents relating to the Project.
+l. Set Off
+The Institution may set-off against any obligation of the Client hereunder, or any other obligation of the Client, the balances of any account maintained by the Client with it.
+l. Final Provisions
+ll. This Agreement shall be construed and enforced pursuant to the laws of {{choice_of_law}}. Both Parties declare that Agreement shall not be construed against any party on the grounds that such party drafted the Agreement or caused it to be drafted. The headings and titles of the paragraphs of this Agreement are for convenience purposes only, and are not intended to define, limit or construe the contents of the various paragraphs. Time is of the essence of every term, condition, obligation and provision hereof unless otherwise stated or implied.
+ll. Both parties certify that this Agreement including the Exhibits and Attachments listed below sets forth the entire understanding of the parties with respect to the subject matter hereof and supersedes all prior agreements of the parties, whether oral or written, relating to any or all matters covered by and contained or otherwise dealt with in this Agreement. Both parties agree that no provision of this Agreement may be modified, except by a written instrument duly signed and acknowledged by each of the parties hereto.
+ll. If any provision or clause of this Agreement, or any portion thereof, is held to be invalid by a court of competent jurisdiction, then such provision or clause shall be severed herefrom without affecting any other provision, the balance of which shall remain in full force and effect.
+ll. No waiver by either party for a breach or default hereunder by the other party shall be considered valid, unless expressed in a writing signed by the aggrieved party. Neither shall such waiver of any breach or default be deemed as a waiver of any prior or subsequent breach or default of the same or other provisions of this Agreement.
+ll. Any notice to be given to either party shall be sent by registered or certified mail, return receipt requested, or in the absence of such services, by courier, to the other party at its last known address. Either party may change the address to which notices are to be sent by so notifying the other party in writing as set forth in this provision. If mailed as provided in this Agreement, notice shall be deemed to have been given as of the date of mailing.
+ll. Both parties each represent and warrant that they have the power, authority and right to enter into this Agreement and to carry out and perform the terms, covenants and conditions hereof. Both parties certify they have been given the opportunity to consult with appropriate legal counsel, and have taken advantage of that opportunity to the extent desired. Both parties further acknowledge they have read and understand this Agreement, are fully aware of its legal effect, and have entered into it freely based on the exercise of their own judgment and free will.
+```
+
+Exhibits and Attachments:
+
+* Exhibit A: Project Information Form being a narrative description of the Project
+* Exhibit B: Cash Flow and Revenue Projection for Project, and Management Services
+* Exhibit C: Schedule of Expenses
+* Exhibit D: Client Information Form
+* Exhibit E: Draw Down Dates
+* Exhibit F: Authorized Signatories.
+
+IN WITNESS HEREOF, the parties have executed this Agreement as of the date set forth above.
+
+For the Client - Signature: ______________________________
+
+Date:________________________ Print: _________________________
+
+For the Institution - Signature: ______________________________
+
+Date: _______________________ Print: _________________________
